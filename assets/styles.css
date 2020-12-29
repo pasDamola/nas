@@ -1,0 +1,157 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+  font-size: 1.6rem;  
+}
+
+.lighten {
+    opacity: 0.7;
+}
+
+.btn--secondary {
+    background-color: #fff;
+    border-radius: 4px;
+    text-transform: capitalize;
+    color: #288855;
+    border: none;
+    width: 200px;
+    max-width: 100%;
+    text-align: center;
+}
+
+.btn--secondary:hover,
+.btn--secondary:focus {
+    border-color: #288855;
+    box-shadow: 0 0 0 0.2rem rgba(40, 136, 85, 0.5);
+    background-color: #fff;
+    color: #288855;
+}
+
+.btn--primary {
+    background-color: #288855;
+    border-radius: 4px;
+    text-transform: capitalize;
+    color: white;
+    border: none;
+    width: 200px;
+    max-width: 100%;
+    text-align: center;
+}
+
+.btn--primary:hover,
+.btn--primary:focus {
+    border-color: #fff;
+    box-shadow: 0 0 0 0.2rem rgba(40, 136, 85, 0.5);
+    background-color: #288855;
+    color: #fff;
+}
+
+.batchC{
+    font-size: 28px ;
+    padding-top: 10px;
+}
+
+.kindly{
+    font-size: 16px;
+    color: #A5A5A5;
+}
+
+.titless{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.confirm{
+    font-size: 20px;
+    color: #25C470;
+}
+
+.npower-prog{
+   color: #767676;
+   font-size: 16px;
+}
+
+.subtitles{
+    color: #444444;
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 30px;
+}
+
+.persona-info-subs{
+   font-size: 14px;
+   color: #767676;
+   /* padding-top: 30px; */
+}
+
+
+  hr{
+    border: 0;
+    clear:both;
+    display:block;
+    width: 749.93px;                
+    background-color:#E7E7E7;
+    height: 1px;
+    max-width: 100%;
+  }
+
+  .bt{
+      height: 50px;
+  }
+
+  .shift-down{
+      padding-bottom: 20px;
+  }
+  .edit{
+      padding-top: 10px;
+      color: #288855;
+      font-size: 14px;
+      cursor: pointer;
+  }
+
+  .database{
+      font-size: 24px;
+      display: block;
+      font-weight: bold;
+      color: #444444;
+  }
+
+  .personal{
+    color: #262627;
+    font-size: 28px;
+  }
+
+  .hidden{
+    color: #262627;
+    font-size: 28px;
+    visibility: hidden;
+  }
+
+  .name{
+      font-size: 24px;
+      color: #262627; 
+  }
+
+  .mail{
+      font-size: 18px;
+      color: #262627;
+  }
+
+  .ben{
+      font-size: 16px;
+      color: #288855;
+  }
+
+  .ava{
+      margin: auto;
+  }
+
+  .rectangle-1 {
+    height: 31px;
+    width: 176px;
+    border-radius: 15.5px;
+    background-color: rgba(184,251,215,0.2);
+    margin: auto;
+  }
